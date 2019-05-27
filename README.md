@@ -33,6 +33,9 @@ All calculators should have the following features:
 - Calculate the inverse of the number on the display (1/x) *
 - Invert the sign of the number on the display (switch between positive and negative)
 - Update the display to `Err` if an error occurs (eg: Division by zero) *
+
+
+
 - Errors must be cleared before any other operation can take place *
 
 Each operation should automatically update the display
@@ -48,8 +51,8 @@ Each operation should automatically update the display
   - (`MC` key) Reset memory *
   - (`MRC` key) Recall the current value from memory to the display *
 - Trig functions
-  - Sine - Calculate the sine of the displayed value and display it
-  - Cosine - Calculate the cosine of the displayed value and display it
+  - Sine - Calculate the sine of the displayed value and display it----- DONE 
+  - Cosine - Calculate the cosine of the displayed value and display it----- DONE
   - Tangent - Calculate the tangent of the displayed value and display it
   - Inverse Sine
   - Inverse Cosine
